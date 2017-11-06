@@ -1,0 +1,156 @@
+bootrepair-antix (17.0) unstable; urgency=medium
+
+  * antiX-17 release
+  * UEFI support
+
+ -- anticapitalista <antix@operamail.com>  Wed, 25 Oct 2017 13:57:12 +0300
+
+bootrepair-antix (16.14) unstable; urgency=medium
+
+  * Include in Applications menu
+
+ -- anticapitalista <antix@operamail.com>  Sat, 07 Oct 2017 23:04:57 +0300
+
+bootrepair-antix (16.13) unstable; urgency=medium
+
+  * Fixed translations
+
+ -- anticapitalista <antix@operamail.com>  Sat, 11 Mar 2017 16:35:47 +0200
+
+bootrepair-antix (16.12) unstable; urgency=medium
+
+  * Removed MX branding 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 11 Feb 2017 13:11:19 +0200
+
+mx-bootrepair (16.11mx16+1) mx; urgency=medium
+
+  * FR translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 30 Nov 2016 10:31:08 -0500
+
+mx-bootrepair (16.11mx16) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 16 Nov 2016 11:37:32 -0500
+
+mx-bootrepair (16.10mx16) mx; urgency=medium
+
+  * changed URLs
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 10 Oct 2016 10:30:14 -0400
+
+mx-bootrepair (16.6mx15) mx; urgency=medium
+
+  * minor fix
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 06 Jun 2016 17:44:22 -0400
+
+mx-bootrepair (16.5mx15) mx; urgency=medium
+
+  * new desktop file
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sun, 22 May 2016 21:21:35 -0400
+
+mx-bootrepair (15.12mx15) mx; urgency=medium
+
+  * added --target=i386-pc
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 22 Dec 2015 17:35:55 -0500
+
+mx-bootrepair (15.11mx15) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 30 Nov 2015 09:28:23 -0500
+
+mx-bootrepair (15.10mx15) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 23 Oct 2015 15:58:37 -0400
+
+mx-bootrepair (15.7.1mx15) mx; urgency=medium
+
+  * new URL for documentation
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 09 Jul 2015 17:38:38 -0400
+
+mx-bootrepair (15.7mx15) mx; urgency=medium
+
+  * changed to qt5
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 30 Jun 2015 12:15:47 -0400
+
+mx-bootrepair (15.6mx14) mx; urgency=medium
+
+  * changed documentation URL
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 03 Jun 2015 11:13:39 -0400
+
+mx-bootrepair (15.4mx14) mx; urgency=medium
+
+  * added Polish translation
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 20 Apr 2015 19:55:41 -0400
+
+mx-bootrepair (15.3mx14) mx; urgency=medium
+
+  * changed help URL
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 20 Mar 2015 16:48:47 -0400
+
+mx-bootrepair (15.2) mx; urgency=medium
+
+  * added new help URL
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 15 Feb 2015 10:24:40 -0500
+
+mx-bootrepair (15.1) mx; urgency=medium
+
+  * added Japanese and Catalan to .desktop
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 27 Jan 2015 11:14:11 -0500
+
+mx-bootrepair (14.3+1) mx; urgency=low
+
+  * retranslated stings, ready for point release
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 06 Nov 2014 00:43:31 -0500
+
+mx-bootrepair (14.2+1) mx; urgency=low
+
+  * fixed dependency typo, chaged version format
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 30 Sep 2014 19:25:25 -0400
+
+mx-bootrepair (0.14.1mx141+3) mx; urgency=low
+
+  * minor changes
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 25 Jun 2014 10:10:58 -0400
+
+mx-bootrepair (0.14.1mx141+2) mx; urgency=low
+
+  * update languages
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 17 Jun 2014 13:40:20 -0400
+
+mx-bootrepair (0.3mx140+2) mx; urgency=low
+
+  * update grub.cfg another partitions
+
+ -- Adrian <adrian@mx1>  Sat, 19 Apr 2014 11:26:16 -0400
+
+mx-bootrepair (0.2mx140+1) mx; urgency=low
+
+  * added MBR/PBR save and restore options
+
+ -- Adrian <adrian@mx1>  Thu, 10 Apr 2014 15:05:42 -0400
+
+mx-bootrepair (0.1mx140+1) mx; urgency=low
+
+  * Initial release. 
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 04 Apr 2014 21:40:04 -0700

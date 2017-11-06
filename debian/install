@@ -1,0 +1,6 @@
+bootrepair 		usr/sbin
+bootrepair.desktop	usr/share/applications/antix
+translations/*.qm 	usr/share/bootrepair/locale
+bootrepair.png		usr/share/pixmaps
+icons/*                 usr/share/bootrepair/icons
+license.html		usr/share/doc/bootrepair

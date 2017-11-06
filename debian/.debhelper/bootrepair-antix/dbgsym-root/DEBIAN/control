@@ -1,0 +1,13 @@
+Package: bootrepair-antix-dbgsym
+Source: bootrepair-antix
+Version: 17.0
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: anticapitalista <antix@operamail.com>
+Installed-Size: 491
+Depends: bootrepair-antix (= 17.0)
+Section: debug
+Priority: extra
+Description: Debug symbols for bootrepair-antix
+Build-Ids: 315c0a02b2e2367cbbaa648bdb636579a9cef36e
+Original-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
