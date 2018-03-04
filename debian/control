@@ -1,7 +1,7 @@
 Source: bootrepair-antix
 Section: admin
 Priority: optional
-Maintainer: anticapitalista <antix@operamail.com>
+Maintainer: anticapitalista <anticapitalista@riseup.net>
 XSBC-Original-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
 Build-Depends: qt5-qmake,
 	qt5-default,
@@ -12,6 +12,6 @@ Vcs-Git: git://github.com/AdrianTM/mx-bootrepair
 
 Package: bootrepair-antix
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, grub-pc, mx-viewer
+Depends: ${misc:Depends}, ${shlibs:Depends}, grub-pc, antix-viewer
 Description: Program to help with repair of boot problems.
  bootrepair helps with the repair of boot problems.

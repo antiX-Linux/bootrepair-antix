@@ -1,3 +1,22 @@
+bootrepair-antix (17.3) unstable; urgency=medium
+
+  * new translations
+
+ -- anticapitalista <antix@operamail.com>  Fri, 02 Mar 2018 20:58:15 +0200
+
+bootrepair-antix (17.2) unstable; urgency=medium
+
+  * use antix-viewer
+  * clean up code
+
+ -- anticapitalista <antix@operamail.com>  Wed, 21 Feb 2018 16:38:24 +0200
+
+bootrepair-antix (17.1) unstable; urgency=medium
+
+  * New translations added to .desktop file
+
+ -- anticapitalista <antix@operamail.com>  Wed, 07 Feb 2018 21:37:00 +0200
+
 bootrepair-antix (17.0) unstable; urgency=medium
 
   * antiX-17 release
